@@ -1,0 +1,17 @@
+.edit-button{
+    border-width: 0;
+    font-size: 14px;
+    padding: 6px;
+    background-color: #73fb6d;
+    border-radius: 14px;
+    margin: 0 5px;
+}
+.cancel-button{
+    background-color: #ff0000e8;
+    border-width: 0;
+    font-size: 14px;
+    padding: 6px;
+    border-radius: 14px;
+    margin: 0 5px;
+    color: #ffffff;
+}
